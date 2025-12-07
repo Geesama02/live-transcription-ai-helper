@@ -3,7 +3,7 @@
 Real‑time speech‑to‑text and AI answering assistant using `whisper.cpp`, Flask‑SocketIO, React, and Gemini.
 
 ## UI Preview
-
+![ui](ezgif-3cb148f364d545a6.gif)
 
 
 ## What It Does
