@@ -2,6 +2,10 @@
 
 Real‑time speech‑to‑text and AI answering assistant using `whisper.cpp`, Flask‑SocketIO, React, and Gemini.
 
+## UI Preview
+
+
+
 ## What It Does
 
 - Streams audio into `whisper.cpp` and shows live transcription in the browser.
